@@ -30,7 +30,7 @@ The template comes with the 'Jungle' style pre-loaded. You can easily switch to 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/raygui-cmake-template.git
+    git clone https://github.com/mbn-code/raygui-cmake-template.git
     cd raygui-cmake-template
     ```
 
