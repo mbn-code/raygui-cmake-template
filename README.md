@@ -1,2 +1,47 @@
 # raygui-cmake-template
- This is a very bare bones raygui template to very efficiently and quickly get started working wiht raygui for c and c++
+
+A minimal and elegant template to quickly get started with raygui for C.
+
+## Overview
+
+This template provides a basic structure for creating applications using raylib and raygui. It includes a simple example demonstrating how to render UI elements to the screen.
+
+## Features
+
+- Centered text positioning
+- Example button with click handling
+- Easy to customize and extend
+
+## Style
+
+The template comes with the 'Jungle' style pre-loaded. You can easily switch to different raygui styles by modifying the style include in the source code.
+
+## Getting Started
+
+### Prerequisites
+
+- [raylib](https://www.raylib.com/)
+- [raygui](https://github.com/raysan5/raygui)
+- [CMake](https://cmake.org/)
+
+### Build Instructions
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/yourusername/raygui-cmake-template.git
+    cd raygui-cmake-template
+    ```
+
+2. Build the project:
+    ```sh
+    make
+    ```
+
+3. Run the executable:
+    ```sh
+    ./mbn-raygui-cmake-template.exe
+    ```
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
