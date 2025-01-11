@@ -1,5 +1,7 @@
 # raygui-cmake-template
 
+[![raylib](https://img.shields.io/badge/raylib-5.5.0-orange)](https://github.com/raysan5/raylib) [![raygui](https://img.shields.io/badge/raygui-4.0-blue)](https://github.com/raysan5/raygui) [![CMake](https://img.shields.io/badge/CMake-3.22+-green)](https://cmake.org/) [![License](https://img.shields.io/badge/license-MIT-yellow)](LICENSE) [![Stars](https://img.shields.io/github/stars/raysan5/raylib?style=social)](https://github.com/raysan5/raylib)
+
 A minimal and elegant template to quickly get started with raygui for C.
 
 ## Overview
